@@ -1,7 +1,7 @@
 # Smart SDLC – AI Powered Requirements Classifier 🎯
 
 ## 🎥 Demo Video
-[Watch our project demo]https://drive.google.com/uc?id=1pR5em33LDvQ0YmJaef6HW_ACsAcUxVP3&export=download
+[Watch our project demo] https://drive.google.com/file/d/1pR5em33LDvQ0YmJaef6HW_ACsAcUxVP3/view?usp=drive_link
 ## 📑 Presentation
 [Download Presentation Slides (PPTX)](./slides/SmartSDLC_Presentation.pptx)
 
